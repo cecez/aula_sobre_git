@@ -1,6 +1,7 @@
 # aula_sobre_git
 Simulando um projeto novo
 
-Emerson
+Gravação da aula https://youtu.be/ca3Rjy9-6yc
+
+Participantes (ponham seus nomes):
 Cezar
-Cristiano
